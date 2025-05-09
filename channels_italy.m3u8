@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/https://github.com/rossy92/https://github.com/rossy92/OMGnewlists/raw/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://github.com/rossy92/OMGnewlists/raw/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
 https://rossy92-uhm.hf.space/proxy/hls/manifest.m3u8?api_password=4Str3m10!&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
